@@ -26,6 +26,18 @@ All my custom Big Sur icon designs, enjoy!
 | :---: | :---: |
 | Blender (Style 3) | Blender Orange (Style 3) |
 
-| ![Microsoft Edge](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Microsoft Edge.png) | ![Microsoft Edge_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Microsoft Edge_Alt.png) |
+| ![MicrosoftEdge](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/MicrosoftEdge.png) | ![MicrosoftEdge_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/MicrosoftEdge_Alt.png) |
 | :---: | :---: |
 | Microsoft Edge | Microsoft Edge Alt |
+
+| ![Audacity](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Audacity.png) | ![Audacity_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Audacity_Alt.png) |
+| :---: | :---: |
+| Audacity | Audacity Alt |
+
+| ![Mindnote](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Mindnote.png) | ![OnyX](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/OnyX.png) |
+| :---: | :---: |
+| Mindnote | OnyX |
+
+| ![CopyClip](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/CopyClip.png) | ![DebitAndCredit](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/DebitAndCredit.png) |
+| :---: | :---: |
+| CopyClip | DebitAndCredit |
