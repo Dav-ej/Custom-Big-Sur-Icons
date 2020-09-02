@@ -6,6 +6,10 @@ All my custom Big Sur icon designs, enjoy!
 | :---: | :---: |
 | Spotify | Spotify Dark |
 
+| ![Twitter](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Twitter.png) | ![Twitter_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Twitter_Alt.png) |
+| :---: | :---: |
+| Twitter | Twitter Alt |
+
 | ![Blender_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_Style-1.png) | ![Blender-White_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender-White_Style-1.png) |
 | :---: | :---: |
 | Blender (Style 1) | Blender White (Style 1) |
@@ -17,3 +21,7 @@ All my custom Big Sur icon designs, enjoy!
 | ![Blender_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_Style-3.png) | ![Blender-White_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender-White_Style-3.png) |
 | :---: | :---: |
 | Blender (Style 3) | Blender White (Style 3) |
+
+| ![Microsoft Edge](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Microsoft Edge.png) | ![Microsoft Edge_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Microsoft Edge_Alt.png) |
+| :---: | :---: |
+| Microsoft Edge | Microsoft Edge Alt |
