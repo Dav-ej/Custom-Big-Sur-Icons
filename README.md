@@ -6,14 +6,26 @@ All my custom Big Sur icon designs, enjoy!
 | :---: | :---: |
 | Spotify | Spotify Dark |
 
-| ![Blender_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_Style-1.png) | ![Blender-White_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender-White_Style-1.png) |
+| ![Spotify_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Spotify_Alt.png) | ![Spotify_Dark_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Spotify_Dark_Alt.png) |
 | :---: | :---: |
-| Blender (Style 1) | Blender White (Style 1) |
+| Spotify Alt | Spotify Dark Alt |
 
-| ![Blender_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_Style-2.png) | ![Blender-White_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender-White_Style-2.png) |
+| ![Twitter](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Twitter.png) | ![Twitter_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Twitter_Alt.png) |
 | :---: | :---: |
-| Blender (Style 2) | Blender White (Style 2) |
+| Twitter | Twitter Alt |
 
-| ![Blender_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_Style-3.png) | ![Blender-White_Style-1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender-White_Style-3.png) |
+| ![Blender_1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_1.png) | ![Blender_Orange_1](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_Orange_1.png) |
 | :---: | :---: |
-| Blender (Style 3) | Blender White (Style 3) |
+| Blender (Style 1) | Blender Orange (Style 1) |
+
+| ![Blender_2](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_2.png) | ![Blender_Orange_2](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_Orange_2.png) |
+| :---: | :---: |
+| Blender (Style 2) | Blender Orange (Style 2) |
+
+| ![Blender_3](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_3.png) | ![Blender_Orange_3](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Blender_Orange_3.png) |
+| :---: | :---: |
+| Blender (Style 3) | Blender Orange (Style 3) |
+
+| ![Microsoft Edge](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Microsoft Edge.png) | ![Microsoft Edge_Alt](https://github.com/Dav-ej/Custom-Big-Sur-Icons/blob/master/Icons/png/Microsoft Edge_Alt.png) |
+| :---: | :---: |
+| Microsoft Edge | Microsoft Edge Alt |
